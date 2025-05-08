@@ -26,7 +26,6 @@
 <div align="center">  
 <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" style="margin:10px"/>  
 <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" style="margin:10px"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin:10px"/>  
 </div>
 
 </td><td valign="top" width="25%">
@@ -49,6 +48,7 @@
  <div align="center">  
         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" height="50" style="margin:10px"/>  
         <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" style="margin:10px"/>  
+        <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin:10px"/>  
  </div>
 
 </td><td valign="top" width="25%">
