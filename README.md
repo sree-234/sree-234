@@ -97,6 +97,9 @@ This experience helped deepen my understanding of applied cryptography, secure c
 <a href="https://github.com/sree-234" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+<a href="https://www.instagram.com/sree_23_4/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>  
 <a href="https://www.linkedin.com/in/sreejith234/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>  
