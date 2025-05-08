@@ -13,7 +13,6 @@
 - 🎓 I’m currently a **fresher**, open to exciting software development opportunities    
 - 🌱 Learning **Flutter** and **MERN Stack**  
 - 📧 Reach me at: sreejithsreeragam234@gmail.com  
-- ⚡ Fun fact: I built a robot that delivers things in hospitals 🏥  
 
 ---
 
