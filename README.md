@@ -104,4 +104,11 @@ This experience helped deepen my understanding of applied cryptography, secure c
 
 ---
 
+## 📄 Resume
+
+You can view or download my resume here:  
+🔗 [Click to View Resume](./Resume.pdf)
+
+---
+
 ⭐ _Thanks for checking out my profile! Let’s connect and build amazing things together._ 🚀
