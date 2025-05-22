@@ -102,6 +102,9 @@ This experience helped deepen my understanding of applied cryptography, secure c
 <a href="https://www.linkedin.com/in/sreejith234/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>  
+<a href="https://sree-234.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-%23007ACC.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>  
 </div>
 
 ---
